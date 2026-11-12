@@ -17,6 +17,1893 @@
      "sha256": "af31fc82599eda6b029d2c91184fcf741c25d889a813afd0780201d84abcbf73"
     }
    ]
+  },
+  {
+   "slug": "eaeu-act-9020",
+   "short": "Протокол (от 21 мая 2010 года) о внесении изменений в Соглашение Таможенного союза по санитарным мерам от 11 декабря 2009 года",
+   "title": "Протокол (от 21 мая 2010 года) о внесении изменений в Соглашение Таможенного союза по санитарным мерам от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/9020/",
+   "versions": [
+    {
+     "from": "2011-05-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/f04/z96rzbnw4ur3qaadc4hxlwzwbpu8wk0p/arch_17052013_doc.html",
+     "sha256": "9c226adf5f867bf61209ab0b2c7b5cc383353036b9dce0de9235ab9070b66906"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8901",
+   "short": "Соглашение об основаниях, условиях и порядке изменения сроков уплаты таможенных пошлин от 21 мая 2010 года",
+   "title": "Соглашение об основаниях, условиях и порядке изменения сроков уплаты таможенных пошлин от 21 мая 2010 года",
+   "url": "https://docs.eaeunion.org/documents/237/8901/",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/27c/3wauweemiq192szforgi3jhn44kfr0a3/itot_17052013_doc.html",
+     "sha256": "5899a4dbd174b77f934bf727ada07667908d0b98d0e3ade7f42ef06f850c3fe1"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8892",
+   "short": "Соглашение о правовой помощи и взаимодействии таможенных органов государств – членов Таможенного союза по уголовным делам и делам об административных правонарушениях от 5 июля 2010 года",
+   "title": "Соглашение о правовой помощи и взаимодействии таможенных органов государств – членов Таможенного союза по уголовным делам и делам об административных правонарушениях от 5 июля 2010 года",
+   "url": "https://docs.eaeunion.org/documents/237/8892/",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/8bc/6oicme1nux6wm8sac2y0ku3gt19lkvtc/itot_17052013_doc.html",
+     "sha256": "9a32b52eee49c0c3526ee5c63cfbc472527fa08e2a5ab43614bdedf1247e2e95"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-738",
+   "short": "Протокол (от 21 мая 2010 года) о внесении изменений в Соглашение Таможенного союза по ветеринарно-санитарным мерам от 11 декабря 2009 года",
+   "title": "Протокол (от 21 мая 2010 года) о внесении изменений в Соглашение Таможенного союза по ветеринарно-санитарным мерам от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/738/",
+   "versions": [
+    {
+     "from": "2011-05-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/a06/p4tyjf1ulth4ra5hz0abnz93hfr7uv5q/arch_17052013_doc.html",
+     "sha256": "dcbaa532cfa7318e6fee5627886bf006ae017e2e81961189dca6be8ddeb95ed2"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-674",
+   "short": "Протокол (от 21 мая 2010 года) о внесении изменений в Соглашение таможенного союза о карантине растений от 11 декабря 2009 года",
+   "title": "Протокол (от 21 мая 2010 года) о внесении изменений в Соглашение таможенного союза о карантине растений от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/674/",
+   "versions": [
+    {
+     "from": "2011-05-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/288/4zfh9nlb1g3hy26hk2mxfxgew27tbiq3/arch_17052013_doc.html",
+     "sha256": "dd67ac902c5f09e2e6ed597756f6174d3ecf565a368c9527e66b5ac4acfa10e2"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-625",
+   "short": "Договор о функционировании Таможенного союза в рамках многосторонней торговой системы",
+   "title": "Договор о функционировании Таможенного союза в рамках многосторонней торговой системы",
+   "url": "https://docs.eaeunion.org/documents/237/625/",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/f7c/5j40qim2su60b45fbra29vplwnls6mce/itot_17052013_doc.html",
+     "sha256": "ba2f233fface83a9e50d5f6f5c11672130d8ff66331d4b21e96de1d71bc54454"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-612",
+   "short": "Договор о порядке перемещения физическими лицами наличных денежных средств и (или) денежных инструментов через таможенную границу Таможенного союза от 5 июля 2010 года",
+   "title": "Договор о порядке перемещения физическими лицами наличных денежных средств и (или) денежных инструментов через таможенную границу Таможенного союза от 5 июля 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/612/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d6a/oegl1ic38iupajlyjq87fndq2ent965v/arch_17052013_doc.html",
+     "sha256": "b94be927214c569178457c4a91c13ed035bcde252f82c71031cc2889c7029ebd"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-609",
+   "short": "Договор об особенностях уголовной и административной ответственности за нарушения таможенного законодательства Таможенного союза и государств – членов Таможенного союза от 5 июля 2010 года",
+   "title": "Договор об особенностях уголовной и административной ответственности за нарушения таможенного законодательства Таможенного союза и государств – членов Таможенного союза от 5 июля 2010 года",
+   "url": "https://docs.eaeunion.org/documents/237/609/",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/5e4/ki14lyx7v0lvd7x8k0o7bcdhavma5nve/itot_17052013_doc.html",
+     "sha256": "a4e71053591a886fb602666caddc19729554cfb11073ebe822bd85533983deee"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-596",
+   "short": "Соглашение о представлении и об обмене предварительной информацией о товарах и транспортных средствах, перемещаемых через таможенную границу Таможенного союза от 21 мая 2010 года",
+   "title": "Соглашение о представлении и об обмене предварительной информацией о товарах и транспортных средствах, перемещаемых через таможенную границу Таможенного союза от 21 мая 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/596/",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/666/1ib90k2nnhmr2l87qe1m0moouzjsroh6/arch_17052013_doc.html",
+     "sha256": "5af810de378238400a89ec868517c7c77d7a32c7a57b3be473e57d0fde81d28f"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-595",
+   "short": "Соглашение об особенностях таможенного транзита товаров, перемещаемых железнодорожным транспортом по таможенной территории Таможенного союза от 21 мая 2010 года",
+   "title": "Соглашение об особенностях таможенного транзита товаров, перемещаемых железнодорожным транспортом по таможенной территории Таможенного союза от 21 мая 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/595/",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/c43/n7wmb70h98hg16dscz86do8q0fe930pa/arch_17052013_doc.html",
+     "sha256": "91bcd7ec57c73cc33116b277a0e3253ba3c4cc6aa10a19dbd4eb36a3a9569d01"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-586",
+   "short": "Соглашение о некоторых вопросах предоставления обеспечения уплаты таможенных пошлин, налогов в отношении товаров, перевозимых в соответствии с процедурой таможенного транзита, особенностях взыскания таможенных пошлин, налогов и порядке перечисления взысканных сумм в отношении таких товаров от 21 мая 2010 года",
+   "title": "Соглашение о некоторых вопросах предоставления обеспечения уплаты таможенных пошлин, налогов в отношении товаров, перевозимых в соответствии с процедурой таможенного транзита, особенностях взыскания таможенных пошлин, налогов и порядке перечисления взысканных сумм в отношении таких товаров от 21 мая 2010 года",
+   "url": "https://docs.eaeunion.org/documents/237/586/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/b25/nmfumqni6me7ecaztrhxdsxn4gax156q/itot_17052013_doc.html",
+     "sha256": "cab10e8d916c7d99a99c2eede05e990d2c0f07b83ddb77c5ab95b423e6f26008"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-585",
+   "short": "Cоглашение об установлении и применении в таможенном союзе порядка зачисления и распределения ввозных таможенных пошлин (иных пошлин, налогов и сборов, имеющих эквивалентное действие)",
+   "title": "Cоглашение об установлении и применении в таможенном союзе порядка зачисления и распределения ввозных таможенных пошлин (иных пошлин, налогов и сборов, имеющих эквивалентное действие)",
+   "url": "https://docs.eaeunion.org/documents/239/585/",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/94c/0772un307be9e25cmm204eo8p2unuvo0/arch_17052013_doc.html",
+     "sha256": "a847c824bfca5da0dd30632746bdec5fe966f8398f7beebd851b9dbe28587fab"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-579",
+   "short": "Соглашение о взаимной административной помощи таможенных органов государств-членов Таможенного союза от 21 мая 2010 года",
+   "title": "Соглашение о взаимной административной помощи таможенных органов государств-членов Таможенного союза от 21 мая 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/579/",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/423/g6636t0kc4yna2yo3kab39rsebp29oo1/arch_17052013_doc.html",
+     "sha256": "58da97b406bd55881a137897db2d043047a8279b10948e593151178697633f1b"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8963",
+   "short": "Протокол от 12 декабря 2008 г. о внесении изменений в Соглашение об основах гармонизации технических регламентов государств – членов Евразийского экономического сообщества от 24 марта 2005 года",
+   "title": "Протокол от 12 декабря 2008 г. о внесении изменений в Соглашение об основах гармонизации технических регламентов государств – членов Евразийского экономического сообщества от 24 марта 2005 года",
+   "url": "https://docs.eaeunion.org/documents/239/8963/",
+   "versions": [
+    {
+     "from": "2010-04-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/f9a/8ulatfbk2ecc1tylw079mfslynwohhii/arch_07112012_doc.html",
+     "sha256": "238e9b7251491898e75952b1d24d14f77de56623777ce190129e0fac48bb7968"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8911",
+   "short": "Соглашение о создании информационной системы Евразийского экономического сообщества в области технического регулирования, санитарных и фитосанитарных мер от 12 декабря 2008 года",
+   "title": "Соглашение о создании информационной системы Евразийского экономического сообщества в области технического регулирования, санитарных и фитосанитарных мер от 12 декабря 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/8911/",
+   "versions": [
+    {
+     "from": "2011-03-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/8a8/pdrgavknuorrjia7t163dcwnv3c34rl7/arch_07112012_doc.html",
+     "sha256": "a25baf08de920086fc6b47432612edcf99b3a1ad56025789e3f1a23eb7a56153"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8897",
+   "short": "Соглашение о едином порядке экспортного контроля государств-членов Евразийского экономического сообщества от 28 октября 2003 года",
+   "title": "Соглашение о едином порядке экспортного контроля государств-членов Евразийского экономического сообщества от 28 октября 2003 года",
+   "url": "https://docs.eaeunion.org/documents/237/8897/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/61e/1n74c2rbz57nevcs3g3ejmpevckspvj0/itot_07112012_doc.html",
+     "sha256": "fd7734bb7efd9130ae18b120d54fbd52e4edc3fe6ea4babf333a5d4f750c91d8"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-675",
+   "short": "Протокол от 6 октября 2007 г. о внесении изменений в Договор об учреждении Евразийского экономического сообщества от 10 октября 2000 года",
+   "title": "Протокол от 6 октября 2007 г. о внесении изменений в Договор об учреждении Евразийского экономического сообщества от 10 октября 2000 года",
+   "url": "https://docs.eaeunion.org/documents/239/675/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/0a3/5qkb9mvg4ji9wrq0sa2q3dn8vs0utheb/arch_07112012_doc.html",
+     "sha256": "393c9c06275b315a9847b87bd81859252630f098f3b800423b65a4ae8bb557e5"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-621",
+   "short": "Соглашение о применении Единого знака обращения продукции на рынке государств-членов ЕврАзЭС от 19 мая 2006 года",
+   "title": "Соглашение о применении Единого знака обращения продукции на рынке государств-членов ЕврАзЭС от 19 мая 2006 года",
+   "url": "https://docs.eaeunion.org/documents/239/621/",
+   "versions": [
+    {
+     "from": "2008-05-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/a2a/2x6i7hk2a3938r6izlymrrr0xj9m57h1/arch_07112012_doc.html",
+     "sha256": "123f02fa7902741b246152266ef46e69ccf8b95213caced74fd0f1883e285db3"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-582",
+   "short": "Соглашение о проведении согласованной политики в области технического регулирования, санитарных и фитосанитарных мер Евразийского экономического сообщества от 25 января 2008 года",
+   "title": "Соглашение о проведении согласованной политики в области технического регулирования, санитарных и фитосанитарных мер Евразийского экономического сообщества от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/582/",
+   "versions": [
+    {
+     "from": "2009-06-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/1b0/qyh1n6wwbf7h1c4553pd9pbne6nqnfh1/arch_07112012_doc.html",
+     "sha256": "291b46d1e2547e091cc812948618e2d99e1ac8b7647d2eecb68801ae7162da55"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-563",
+   "short": "Договор о Таможенном союзе и Едином экономическом пространстве от 26 февраля 1999 года",
+   "title": "Договор о Таможенном союзе и Едином экономическом пространстве от 26 февраля 1999 года",
+   "url": "https://docs.eaeunion.org/documents/239/563/",
+   "versions": [
+    {
+     "from": "2001-07-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/571/0lbapok0q0uqceeoj0iaylzwkml6mpt1/arch_07112012_doc.html",
+     "sha256": "2d24c8e60b5dd645e572cf0d7d7022b5e16834fae6c24ce4c6edd81efe2d3117"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8912",
+   "short": "Соглашение о сотрудничестве и взаимопомощи в таможенных делах по вопросам деятельности представительств таможенных служб государств - членов Таможенного союза в рамках Евразийского экономического сообщества от 22 июня 2011 года",
+   "title": "Соглашение о сотрудничестве и взаимопомощи в таможенных делах по вопросам деятельности представительств таможенных служб государств - членов Таможенного союза в рамках Евразийского экономического сообщества от 22 июня 2011 года",
+   "url": "https://docs.eaeunion.org/documents/237/8912/",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/65a/s3r1uflvqk2ee0uh16c3t7o2h7iq69c1/itot_06112012_31_doc.html",
+     "sha256": "1a693585de92bbe3e862f5659232e2c78fa396d3016e69df7820ca3d9589ec64"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8990",
+   "short": "Протокол (от 18 октября 2011 года) о внесении изменений и дополнений в Соглашение о применении специальных защитных, антидемпинговых и компенсационных мер по отношению к третьим странам от 25 января 2008 года",
+   "title": "Протокол (от 18 октября 2011 года) о внесении изменений и дополнений в Соглашение о применении специальных защитных, антидемпинговых и компенсационных мер по отношению к третьим странам от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/8990/",
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/28a/2qpt81j7bi2qe32ws2v86yc4gk0pvlee/arch_06112012_doc.html",
+     "sha256": "328ad2de07334c52be09187209e9639e9d0e09f58edd9ca10092e154fa696327"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8929",
+   "short": "Протокол об обмене информацией в электронном виде между налоговыми органами государств-членов таможенного союза об уплаченных суммах косвенных налогов от 11 декабря 2009 года",
+   "title": "Протокол об обмене информацией в электронном виде между налоговыми органами государств-членов таможенного союза об уплаченных суммах косвенных налогов от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/237/8929/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/a87/iy9g4ywrbjchm8m8y1w9q0qp1fu3dsc5/itot_06112012_doc.html",
+     "sha256": "9482e8eeb6b03a3a9cbc42b2b653a2e6eb328497d680581822970c8db1e12a8f"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8924",
+   "short": "Договор о Комиссии Таможенного союза от 6 октября 2007 года",
+   "title": "Договор о Комиссии Таможенного союза от 6 октября 2007 года",
+   "url": "https://docs.eaeunion.org/documents/239/8924/",
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 0,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/119/ld6rhgizyf9b1hm2ml6e5rwxou5incx8/arch_06112012_doc.html",
+     "sha256": "9900c7e25521b1eb4a15a744fdd80a0f3711b87fd61b4c4fd90a96f4d5df2fdc"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8919",
+   "short": "Соглашение о принципах взимания косвенных налогов при экспорте и импорте товаров, выполнении работ, оказании услуг в Таможенном союзе от 25 января 2008 года",
+   "title": "Соглашение о принципах взимания косвенных налогов при экспорте и импорте товаров, выполнении работ, оказании услуг в Таможенном союзе от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/8919/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/831/m1ao32ns43wk37uh634rcd6srpm4ff0k/arch_06112012_doc.html",
+     "sha256": "4996ff03eb33fed467b5e457d667bbf78df91a698a927e03b4bee5d6af69f4ce"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8918",
+   "short": "Соглашение о создании, функционировании и развитии интегрированной информационной системы внешней и взаимной торговли Таможенного союза от 21 сентября 2010 года",
+   "title": "Соглашение о создании, функционировании и развитии интегрированной информационной системы внешней и взаимной торговли Таможенного союза от 21 сентября 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/8918/",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/9a7/oey91t8h0j5sra6gvkml4dvauzgo59xh/arch_06112012_doc.html",
+     "sha256": "c180606975a5d296b61129425db7f59d67733ae795cfa49eeaeef96f28702c93"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8917",
+   "short": "Протокол об отдельных временных изъятиях из режима функционирования единой таможенной территории Таможенного союза от 5 июля 2010 года",
+   "title": "Протокол об отдельных временных изъятиях из режима функционирования единой таможенной территории Таможенного союза от 5 июля 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/8917/",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/433/j8i1y02a924b6n51710d5i2w4rfzu5qx/arch_06112012_doc.html",
+     "sha256": "64e983a1b43bef1e4b4bfa638c82a5ee6cdce7b49cc7495f0f6cffa5b013c828"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8907",
+   "short": "Соглашение об осуществлении транспортного (автомобильного) контроля на внешней границе Таможенного союза от 22 июня 2011 года",
+   "title": "Соглашение об осуществлении транспортного (автомобильного) контроля на внешней границе Таможенного союза от 22 июня 2011 года",
+   "url": "https://docs.eaeunion.org/documents/239/8907/",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d0a/x9ke9tca1wcl8k9p70h1n6gqcvolckza/arch_06112012_doc.html",
+     "sha256": "514519d75c08c9585362cb56ed65b736a032536c184ca48e5cc74358c6841a76"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8873",
+   "short": "Соглашение об определении таможенной стоимости товаров, перемещаемых через таможенную границу Таможенного союза от 25 января 2008 года",
+   "title": "Соглашение об определении таможенной стоимости товаров, перемещаемых через таможенную границу Таможенного союза от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/237/8873/",
+   "versions": [
+    {
+     "from": "2010-07-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/abe/z9c6ghyn6h5857nr4dwqsjk1dzo4dpvo/itot_06112012_doc.html",
+     "sha256": "88cd4485f9d463bca0e13c8755450beab0b40de7ad527eee2d072138be191ae4"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-698",
+   "short": "Протокол о порядке вступления в силу международных договоров, направленных на формирование договорно-правовой базы Таможенного союза, выхода из них и присоединения к ним от 6 октября 2007 года",
+   "title": "Протокол о порядке вступления в силу международных договоров, направленных на формирование договорно-правовой базы Таможенного союза, выхода из них и присоединения к ним от 6 октября 2007 года",
+   "url": "https://docs.eaeunion.org/documents/239/698/",
+   "versions": [
+    {
+     "from": "2009-01-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/511/bkfxpbblvloe3c4ymgur0arm4di0cf2l/arch_06112012_doc.html",
+     "sha256": "d1ba8956f2da84c1c839edbfbc03c9c640dccaebc484e1ef648e5879e2a9587c"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-687",
+   "short": "Протокол о международных торговых переговорах государств-участников Соглашений о Таможенном союзе при вступлении во Всемирную торговую организацию от 3 июня 1997 года",
+   "title": "Протокол о международных торговых переговорах государств-участников Соглашений о Таможенном союзе при вступлении во Всемирную торговую организацию от 3 июня 1997 года",
+   "url": "https://docs.eaeunion.org/documents/239/687/",
+   "versions": [
+    {
+     "from": "1997-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/bcb/s8dux2etabryeh1bds123hg12o2ck8n3/arch_06112012_doc.html",
+     "sha256": "002789bc14d7550cce5954e25f64c796d1393085af7b208b1a5eb31ec5aa690b"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-639",
+   "short": "Договор о создании единой таможенной территории и формировании Таможенного союза от 6 октября 2007 года",
+   "title": "Договор о создании единой таможенной территории и формировании Таможенного союза от 6 октября 2007 года",
+   "url": "https://docs.eaeunion.org/documents/239/639/",
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/e47/35kpnsqyktwiqwdcuywj28q51zhuscf2/arch_06112012_doc.html",
+     "sha256": "b254381d1965a926efc0beaa0050d70cfb6bcfb3a7174bc67fd45828051cc18e"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-628",
+   "short": "Соглашение об освобождении от применения таможенными органами государств – членов Таможенного союза определенных форм таможенного контроля от 18 июня 2010 года",
+   "title": "Соглашение об освобождении от применения таможенными органами государств – членов Таможенного союза определенных форм таможенного контроля от 18 июня 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/628/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/8f1/ow13stzdtcgrw8p8zay3ybyksrzzz2g9/arch_06112012_doc.html",
+     "sha256": "64bdd824328ef1323d361af6e65885c70c779c9f7594911f627a59df25916be6"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-627",
+   "short": "Соглашение об организации обмена информацией для реализации аналитических и контрольных функций таможенных органов государств-членов Таможенного союза от 19 октября 2011 года",
+   "title": "Соглашение об организации обмена информацией для реализации аналитических и контрольных функций таможенных органов государств-членов Таможенного союза от 19 октября 2011 года",
+   "url": "https://docs.eaeunion.org/documents/239/627/",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d5a/nj812q4cucelrak7d2m0fhwkz2f7ive5/arch_06112012_doc.html",
+     "sha256": "6055981fc11842193b66336996ce5a8605033ca8e369b63bc24717d7343fccf0"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-617",
+   "short": "Протокол о порядке предоставления органу, проводящему расследования, сведений, содержащих в том числе конфиденциальную информацию, для целей расследований, предшествующих введению специальных защитных, антидемпинговых и компенсационных мер по отношению к третьим странам",
+   "title": "Протокол о порядке предоставления органу, проводящему расследования, сведений, содержащих в том числе конфиденциальную информацию, для целей расследований, предшествующих введению специальных защитных, антидемпинговых и компенсационных мер по отношению к третьим странам",
+   "url": "https://docs.eaeunion.org/documents/239/617/",
+   "versions": [
+    {
+     "from": "2011-08-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/7b4/r1dsyfa14qyvboretsgy0gh1ic4otoo5/itot_06112012_doc.html",
+     "sha256": "5031813a0669681e70d9577da4582bec01df270910141670594a11858aaf656a"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-614",
+   "short": "Соглашение о ведении таможенной статистики внешней и взаимной торговли товарами Таможенного союза от 25 января 2008 года",
+   "title": "Соглашение о ведении таможенной статистики внешней и взаимной торговли товарами Таможенного союза от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/614/",
+   "versions": [
+    {
+     "from": "2009-06-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/640/12ffwklvn08pjuv4rlkdekvca9sdf7hr/arch_06112012_doc.html",
+     "sha256": "27307cdb4ea01bcdc34ed6e1172c352df57b70fb998ff1277db992b7bb057796"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-613",
+   "short": "Соглашение об особенностях использования транспортных средств международной перевозки, осуществляющих перевозку пассажиров, а также прицепов, полуприцепов, контейнеров и железнодорожного подвижного состава, осуществляющих перевозку грузов и (или) багажа для внутренней перевозки по таможенной территории Таможенного союза от 18 июня 2010 года",
+   "title": "Соглашение об особенностях использования транспортных средств международной перевозки, осуществляющих перевозку пассажиров, а также прицепов, полуприцепов, контейнеров и железнодорожного подвижного состава, осуществляющих перевозку грузов и (или) багажа для внутренней перевозки по таможенной территории Таможенного союза от 18 июня 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/613/",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/278/cruos8vpnlhut5bkpltta61nv3kwa2sc/arch_06112012_doc.html",
+     "sha256": "2df6aca34703f5c71ec42e456b3c4b8d0a50a3a6ac7f8cf3580f2b92c0b3eef8"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-611",
+   "short": "Соглашение о едином таможенном реестре объектов интеллектуальной собственности государств - членов Таможенного союза от 21 мая 2010 года",
+   "title": "Соглашение о едином таможенном реестре объектов интеллектуальной собственности государств - членов Таможенного союза от 21 мая 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/611/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/898/i8lpj2xoapogcq8s59hiw8q8d37cunm9/arch_06112012_doc.html",
+     "sha256": "cb226bdf7541b50ac4111653ed44c4dabf855bfcd9a3c05888c3efd7539dc557"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-610",
+   "short": "Соглашение о единых правилах определения страны происхождения товаров от 25 января 2008 года",
+   "title": "Соглашение о единых правилах определения страны происхождения товаров от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/237/610/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/fb7/8u67en7g43mpj8xzdomzg1gdhaihajg7/itot_06112012_doc.html",
+     "sha256": "f4b2769243bcdba7edbf7b72240ac3b4429514fd010d157810661734e550ec59"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-608",
+   "short": "Соглашение о применении информационных технологий при обмене электронными документами во внешней и взаимной торговле на единой таможенной территории Таможенного союза от 21 сентября 2010 года",
+   "title": "Соглашение о применении информационных технологий при обмене электронными документами во внешней и взаимной торговле на единой таможенной территории Таможенного союза от 21 сентября 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/608/",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/fb0/elhy7u37si7ytahp6583hwbv7n2xdvdk/arch_06112012_doc.html",
+     "sha256": "0cf6f1a32d8d14de2f68b12ef64aa9ae3d8370114937b2695c82170901e3242c"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-606",
+   "short": "Соглашение об основах гармонизации технических регламентов государств-членов Евразийского экономического сообщества от 24 марта 2005 года",
+   "title": "Соглашение об основах гармонизации технических регламентов государств-членов Евразийского экономического сообщества от 24 марта 2005 года",
+   "url": "https://docs.eaeunion.org/documents/239/606/",
+   "versions": [
+    {
+     "from": "2007-05-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/18a/bwjur5ecas11fryawj6smx9pj4l0j9xo/arch_06112012_doc.html",
+     "sha256": "aaefaf1f4da6afef737281a13eb7f0387ff8cb0c66e0e866f33e9d0dd2ef5476"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-605",
+   "short": "Соглашение о едином таможенно-тарифном регулировании от 25 января 2008 года",
+   "title": "Соглашение о едином таможенно-тарифном регулировании от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/605/",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d59/qgb5l35c0uwseyag1728fpq5e349pm0f/arch_06112012_doc.html",
+     "sha256": "b60d143e7392c20ecea058b1008b96c5eba5fe819e19630843b586ca84df3bc1"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-597",
+   "short": "Соглашение о единых мерах нетарифного регулирования в отношении третьих стран от 25 января 2008 года",
+   "title": "Соглашение о единых мерах нетарифного регулирования в отношении третьих стран от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/597/",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/a2a/272u2jf0gg8dzg7pyzovcvhajj1887m4/arch_06112012_doc.html",
+     "sha256": "626e8593e9aa8514ca9484b81555cb064a2e18d36eda1bdd0646081457a0bad6"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-591",
+   "short": "Соглашение об особенностях таможенных операций в отношении товаров, пересылаемых в международных почтовых отправлениях от 18 июня 2010 года",
+   "title": "Соглашение об особенностях таможенных операций в отношении товаров, пересылаемых в международных почтовых отправлениях от 18 июня 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/591/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/db7/yrqz1swm6zmxevy9hetxpg3p4dfi70v7/arch_06112012_doc.html",
+     "sha256": "d99267d64f906a30afa6991668b2761f5afd30dc98c53e291e02f79b854a6e13"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-589",
+   "short": "Договор об Объединенной коллегии таможенных служб государств - членов Таможенного союза от 22 июня 2011 года",
+   "title": "Договор об Объединенной коллегии таможенных служб государств - членов Таможенного союза от 22 июня 2011 года",
+   "url": "https://docs.eaeunion.org/documents/237/589/",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/4c5/macsrxbkwco3id24kfwhpycozep1ed1r/itot_06112012_doc.html",
+     "sha256": "b7fbc9535162cba6e596c5d8f10fcffaac34b1d34e30bea9c55e1fe982e1592f"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-584",
+   "short": "Соглашение о единых принципах и правилах технического регулирования в Республике Беларусь, Республике Казахстан и Российской Федерации от 18 ноября 2010 года",
+   "title": "Соглашение о единых принципах и правилах технического регулирования в Республике Беларусь, Республике Казахстан и Российской Федерации от 18 ноября 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/584/",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/b7b/8opnpi7zxxjtrltcmzqlas8ra80yy2qz/arch_06112012_doc.html",
+     "sha256": "b03aca1f35e7305d655648e18af989477ba7fc712f13101c72e5574f8d261e9d"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-581",
+   "short": "Соглашение о порядке применения специальных защитных, антидемпинговых и компенсационных мер в течение переходного периода от 19 ноября 2010 года",
+   "title": "Соглашение о порядке применения специальных защитных, антидемпинговых и компенсационных мер в течение переходного периода от 19 ноября 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/581/",
+   "versions": [
+    {
+     "from": "2012-01-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/43c/qge1gvcd436t39hsrjo6l78wq57wggbh/arch_06112012_doc.html",
+     "sha256": "0da96fc0d65215b7eb1d6a62a18137ffc08b4e5b5bb4554d6b3848bfdd7a0e77"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-540",
+   "short": "Соглашение о порядке перемещения физическими лицами товаров для личного пользования через таможенную границу Таможенного союза и совершения таможенных операций, связанных с их выпуском от 18 июня 2010 года",
+   "title": "Соглашение о порядке перемещения физическими лицами товаров для личного пользования через таможенную границу Таможенного союза и совершения таможенных операций, связанных с их выпуском от 18 июня 2010 года",
+   "url": "https://docs.eaeunion.org/documents/237/540/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/29a/ce7h39a5dsr8pu9mamtoiia6ljtyp834/itot_06112012_doc.html",
+     "sha256": "de7589e5e822e6d0fef939ee1f6c0453143bf6cb33eef190e5ac721b93d5a3e3"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-508",
+   "short": "Соглашение о применении специальных защитных, антидемпинговых и компенсационных мер по отношению к третьим странам от 25 января 2008 года",
+   "title": "Соглашение о применении специальных защитных, антидемпинговых и компенсационных мер по отношению к третьим странам от 25 января 2008 года",
+   "url": "https://docs.eaeunion.org/documents/239/508/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/563/2ufzzpaa01vavrgeo8qqrwy25tvuab2x/arch_06112012_doc.html",
+     "sha256": "317b6dd27d3d54336b1b105e39f599bc6e3818c1a1000a19f12f5005834b66f2"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8923",
+   "short": "Соглашение о требованиях к обмену информацией между таможенными органами и иными государственными органами государств-членов Таможенного союза от 21 мая 2010 года",
+   "title": "Соглашение о требованиях к обмену информацией между таможенными органами и иными государственными органами государств-членов Таможенного союза от 21 мая 2010 года",
+   "url": "https://docs.eaeunion.org/documents/239/8923/",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/b8f/5xeixn4sre9jat5np89fbmle5e64o3ma/arch_21052010_doc.html",
+     "sha256": "13adad233600b5cfb9a7a9979eebdb1da92300ccbe6b776e28001547a8f20a14"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-577",
+   "short": "Протокол о порядке взимания косвенных налогов и механизме контроля за их уплатой при экспорте и импорте товаров в Таможенном союзе от 11 декабря 2009 года",
+   "title": "Протокол о порядке взимания косвенных налогов и механизме контроля за их уплатой при экспорте и импорте товаров в Таможенном союзе от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/577/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/e91/rux6f96v4qnztmps31leysrhb5bh5ozj/arch_11122009_doc.html",
+     "sha256": "897dcb076628ea4890f96f504e0b83c2ed557fcc27230e19b2f58f7202341ef0"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8946",
+   "short": "Протокол о внесении изменений в Соглашение о принципах взимания косвенных налогов при экспорте и импорте товаров, выполнении работ, оказании услуг в Таможенном союзе от 25 января 2008 года от 11 декабря 2009 года",
+   "title": "Протокол о внесении изменений в Соглашение о принципах взимания косвенных налогов при экспорте и импорте товаров, выполнении работ, оказании услуг в Таможенном союзе от 25 января 2008 года от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/8946/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/17e/vr9cdbtnjszc2bnaa3uzucpjqmci6uuo/arch_10122009_doc.html",
+     "sha256": "596cdf996bfeabcb1af0abc4fdd9927b3dc17c53f45080883e280977dd77a901"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8908",
+   "short": "Соглашение об обращении продукции, подлежащей обязательной оценке (подтверждению) соответствия, на таможенной территории Таможенного союза от 11 декабря 2009 года",
+   "title": "Соглашение об обращении продукции, подлежащей обязательной оценке (подтверждению) соответствия, на таможенной территории Таможенного союза от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/8908/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/e7a/jz10vfp14w209m4s7yzb4c5o3fwxbila/arch_10122009_doc.html",
+     "sha256": "f6934f897757a18d61ef744213a164278abb6a214d22cede29772f2fdcc51307"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8896",
+   "short": "Соглашение Таможенного союза о карантине растений от 11 декабря 2009 года",
+   "title": "Соглашение Таможенного союза о карантине растений от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/8896/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/b65/8xu2ne1uirjghhe2sag50qb7g9zzl086/arch_10122009_doc.html",
+     "sha256": "62c7ac678500d2419456747ae0e44d4212c1e108624e35b26b54513e25cc03e7"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8894",
+   "short": "Протокол о порядке взимания косвенных налогов при выполнении работ, оказании услуг в Таможенном союзе от 11 декабря 2009 года",
+   "title": "Протокол о порядке взимания косвенных налогов при выполнении работ, оказании услуг в Таможенном союзе от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/8894/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/32c/6c7h40i68ufth7qu2dh1n4kqz3kza687/arch_10122009_doc.html",
+     "sha256": "8ceef983c29ae50e05e24e42f4a452050f482f2c034550b13300cd4fc9cf303c"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-619",
+   "short": "Соглашение о взаимном признании аккредитации органов по сертификации (оценке (подтверждению) соответствия) и испытательных лабораторий (центров), выполняющих работы по подтверждению оценке (подтверждению) соответствия от 11 декабря 2009 года",
+   "title": "Соглашение о взаимном признании аккредитации органов по сертификации (оценке (подтверждению) соответствия) и испытательных лабораторий (центров), выполняющих работы по подтверждению оценке (подтверждению) соответствия от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/619/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d5a/18c9j4xwa3585llxv72okjhb17s2r85m/arch_10122009_doc.html",
+     "sha256": "364276a98a5db32467b46f06d5ae750838ad140f55484ffc4d863866aed7f3af"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-601",
+   "short": "Соглашение Таможенного союза по ветеринарно-санитарным мерам от 11 декабря 2009 года",
+   "title": "Соглашение Таможенного союза по ветеринарно-санитарным мерам от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/601/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/21a/fywd1pmuuuzre0hoj8nqv9ge9ikt32ip/arch_10122009_doc.html",
+     "sha256": "f38f0ad140e9a7a1a97c19968e1ca163428de9707cc65470b49dc16fe52747f2"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-592",
+   "short": "Соглашение Таможенного союза по санитарным мерам от 11 декабря 2009 года",
+   "title": "Соглашение Таможенного союза по санитарным мерам от 11 декабря 2009 года",
+   "url": "https://docs.eaeunion.org/documents/239/592/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/772/pevtt3paiy34vx1m7rouwg1dl89s008j/arch_10122009_doc.html",
+     "sha256": "5d2d6166949b2341a7094123fd408a71ef894eae05ad8aa062f3234dd862b368"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-633",
+   "short": "Решение № 126",
+   "title": "Решение № 126",
+   "url": "https://docs.eaeunion.org/documents/272/633/",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d4c/fw9uki1vq3sac7wn9xocetf0j7jb3pgw/cncd_20052013_126_doc.html",
+     "sha256": "37cf50f922a222cb7a6ea105e0134e6d04a7b89397bd023864518b851a794616"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9224",
+   "short": "Решение №125",
+   "title": "Решение №125",
+   "url": "https://docs.eaeunion.org/documents/272/9224/",
+   "versions": [
+    {
+     "from": "2013-02-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/429/m8ldjkrx3gzlasbs3ss5esierec5wkwt/cncd_11012013_125_doc.html",
+     "sha256": "1e374f3e5489b1fcb8fcaf051440425c28dfd824a15717db8eaeefbcf65eedcb"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9071",
+   "short": "Решение №115",
+   "title": "Решение №115",
+   "url": "https://docs.eaeunion.org/documents/272/9071/",
+   "versions": [
+    {
+     "from": "2013-01-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/001/bm4qt0y2cvoib4w0sm80bqxhg3gublmg/cncd_18122012_115_doc.html",
+     "sha256": "696ef6c727fd540e879a7cd5d7ee094b65a0727baf40af1a524f3e9fc0a29665"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8988",
+   "short": "Решение №114",
+   "title": "Решение №114",
+   "url": "https://docs.eaeunion.org/documents/272/8988/",
+   "versions": [
+    {
+     "from": "2013-01-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/9ea/t992eayb0f7hpcxfpm0irnk04g9ji717/cncd_18122012_114_doc.html",
+     "sha256": "6b49b2e25e2fe705da77a9a82aec3c651def8ad5a6bbf80d8947bd4f83eb8407"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-663",
+   "short": "Решение №113",
+   "title": "Решение №113",
+   "url": "https://docs.eaeunion.org/documents/272/663/",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/7a4/jzm7j9hw0q8lfytb0pyfztm8mkms90te/cncd_18122012_113_doc.html",
+     "sha256": "63f60fd4c5e7771e611ef7baf768eef8296b6d166e26ee46354a8cbe8da6cc91"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8991",
+   "short": "Решение №109",
+   "title": "Решение №109",
+   "url": "https://docs.eaeunion.org/documents/272/8991/",
+   "versions": [
+    {
+     "from": "2013-01-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/ee1/wu9wp1g0edrlesryx8v8dqo9ooy05fr5/cncd_18122012_109_doc.html",
+     "sha256": "c59611534c25060e01fdef06f2b0be252f3540437886380e926c5818a4913bd2"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-695",
+   "short": "Решение №107",
+   "title": "Решение №107",
+   "url": "https://docs.eaeunion.org/documents/272/695/",
+   "versions": [
+    {
+     "from": "2012-12-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/972/ncgarj1k7upoztr6l33ue5gn8jukuz7q/cncd_12122012_107_doc.html",
+     "sha256": "d0990cb1572f3be5c4a714c4eb7837ad268bdf37cde746c6867a268a123d6824"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-773",
+   "short": "Решение №105",
+   "title": "Решение №105",
+   "url": "https://docs.eaeunion.org/documents/272/773/",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/07c/qw0m0hb6jliso2j57olaxfwxnm6mau77/cncd_27112012_105_doc.html",
+     "sha256": "e82027da3431a0a61797f078562b519da609def655d286b00936c44eb12eac57"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-871",
+   "short": "Решение №103",
+   "title": "Решение №103",
+   "url": "https://docs.eaeunion.org/documents/272/871/",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/132/rty1tx8cktkls8g222i9bp4eu3j9h5ha/cncd_27112012_103_doc.html",
+     "sha256": "cdf2fab0a96d6331a675f7d2ae233f28b76b8a467973887b1e7b6730f864f80a"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-877",
+   "short": "Решение №102",
+   "title": "Решение №102",
+   "url": "https://docs.eaeunion.org/documents/272/877/",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/5fb/t41i3i5e6z37kk6c5j26yg4m8l5rktnj/cncd_27112012_102_doc.html",
+     "sha256": "53e9219a7fbfd74ae858279647f8fb332bf43d53a1e784743445db37892db29c"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-813",
+   "short": "Решение №101",
+   "title": "Решение №101",
+   "url": "https://docs.eaeunion.org/documents/272/813/",
+   "versions": [
+    {
+     "from": "2012-12-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/2ea/pri23l4q46tnja2rnvtf8hkdu3nxr8hi/cncd_27112012_101_doc.html",
+     "sha256": "393bd0be87026a777ddf3ee40d38669a76447e58e65140b593fb3a5fca03ecab"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-966",
+   "short": "Решение №94",
+   "title": "Решение №94",
+   "url": "https://docs.eaeunion.org/documents/272/966/",
+   "versions": [
+    {
+     "from": "2012-11-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/254/ugfa662qgbdyw7a0s3hkjq6bmm709vuq/cncd_27112012_94_doc.html",
+     "sha256": "5da9837095e1faa2480ae90f5c20c8cc40147d36e696d2c5509354a2d2e41707"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9143",
+   "short": "Решение №93",
+   "title": "Решение №93",
+   "url": "https://docs.eaeunion.org/documents/272/9143/",
+   "versions": [
+    {
+     "from": "2012-12-26",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/f58/9zl4tuh7e1df72dfng1q18xvu0ujdflk/cncd_26112012_93_doc.html",
+     "sha256": "8dfad960aa05771c1660ad7e59ea571a33051843d94a11c6e5171296c48646ec"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9058",
+   "short": "Решение №92",
+   "title": "Решение №92",
+   "url": "https://docs.eaeunion.org/documents/272/9058/",
+   "versions": [
+    {
+     "from": "2012-12-26",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/fcb/cwh59zz5hk51xc16k3sjcjer86y4ijui/cncd_26112012_92_doc.html",
+     "sha256": "ef716aceaa4b14d10c46713b2cf4b2b2a34988ff6bff7e4dc0c06df255fd02ec"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-800",
+   "short": "Решение №91",
+   "title": "Решение №91",
+   "url": "https://docs.eaeunion.org/documents/272/800/",
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/78b/569757uz2cb4bhtzxcjc79sexmc1bqg9/cncd_26112012_91_doc.html",
+     "sha256": "10d2c6086b5381828b1a4348b7a1d705c3718113420bcfcb78fa72b8a53859b2"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9088",
+   "short": "Решение №90",
+   "title": "Решение №90",
+   "url": "https://docs.eaeunion.org/documents/272/9088/",
+   "versions": [
+    {
+     "from": "2012-12-26",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/7ad/f24vfptz0aqcnytvhgpsax3msl8xney9/cncd_26112012_90_doc.html",
+     "sha256": "bc24e9186d3edab28ccedf2efb2639ab8da94b6b6f292baee6116d69c1e66aee"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9119",
+   "short": "Решение №85",
+   "title": "Решение №85",
+   "url": "https://docs.eaeunion.org/documents/272/9119/",
+   "versions": [
+    {
+     "from": "2012-12-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/bb5/gflgtzspyzmpzyc888m8nscoik2322b3/cncd_04112012_85_doc.html",
+     "sha256": "9804fb5f9d2178907e6c3724f14a81ab7ef1e3f5c9f1c670be685b48c078323e"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-868",
+   "short": "Решение №83",
+   "title": "Решение №83",
+   "url": "https://docs.eaeunion.org/documents/272/868/",
+   "versions": [
+    {
+     "from": "2012-12-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/ee2/my1x4d4crgwky5pnkx9uzvo28r4g0pms/cncd_02112012_83_doc.html",
+     "sha256": "1d3be56f1f530ce7d2c736a95d195bf551227c9d50449b396119a11f7aedd893"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9044",
+   "short": "Решение №82",
+   "title": "Решение №82",
+   "url": "https://docs.eaeunion.org/documents/272/9044/",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/1b4/ipu3mi6h1jppi8bzyv11r2ujyxzsb0zd/cncd_02112012_82_doc.html",
+     "sha256": "95bc372c33ad9dcc48e8f38879038777797033943352336f89372c2a8f0ffc70"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-722",
+   "short": "Решение №50",
+   "title": "Решение №50",
+   "url": "https://docs.eaeunion.org/documents/272/722/",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/4bb/6g9eh5ytv8f1z7t1177ma9koi2emoz5h/cncd_24102012_50_doc.html",
+     "sha256": "b26fb17f0bdb7ade028f50d3203e21fc6f17d82ca437f7ddb827a9abad49bc33"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-688",
+   "short": "Решение №81",
+   "title": "Решение №81",
+   "url": "https://docs.eaeunion.org/documents/272/688/",
+   "versions": [
+    {
+     "from": "2012-10-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/6cc/fqc2n575xlhzv2o82yc4xvo4lkynt32y/cncd_21092012_81_doc.html",
+     "sha256": "a6757989538dede2c0b6de76f1fec1d06d0201e00f2e07970631dcca52ccad06"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9040",
+   "short": "Решение №80",
+   "title": "Решение №80",
+   "url": "https://docs.eaeunion.org/documents/272/9040/",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/ef4/u38s02k14juevj6u8e5rm93ur8i5mbxt/cncd_14092012_80_doc.html",
+     "sha256": "5f4d6b0f6ba91a7902c3b4401f7741c09110cc0160ce4089f21653f15922ece6"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9115",
+   "short": "Решение №73",
+   "title": "Решение №73",
+   "url": "https://docs.eaeunion.org/documents/272/9115/",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/eaa/h4yffcwsglsq65ytdua2v8b7en3kppvt/cncd_24082012_73_doc.html",
+     "sha256": "f9b4de69dd4159e40186c92f8c37938161409dca3537123224c1bf4df77a778e"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-1065",
+   "short": "Решение №72",
+   "title": "Решение №72",
+   "url": "https://docs.eaeunion.org/documents/272/1065/",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/ad3/gsfgggpwamcw2y8enzf9s2wv5fmeoog1/cncd_24082012_72_doc.html",
+     "sha256": "254437349598909ae90d548474e1b38c1a10ee2f8fdc589c7cae96d0b1aa429f"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-950",
+   "short": "Решение №71",
+   "title": "Решение №71",
+   "url": "https://docs.eaeunion.org/documents/272/950/",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/8b2/bmgd2et3q0sgz829hiwnmyra2irhnrit/cncd_24082012_71_doc.html",
+     "sha256": "0b728afed3d5917968b7d4f0212e393b291b2004a48472c58e64c2f8a4deea45"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-766",
+   "short": "Решение №70",
+   "title": "Решение №70",
+   "url": "https://docs.eaeunion.org/documents/272/766/",
+   "versions": [
+    {
+     "from": "2012-08-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/6f1/33f3phshhp5ziln0rt6wl5cp81q0akqp/cncd_24082012_70_doc.html",
+     "sha256": "7255537e5a5148a812ecbb6941eb0ec06c020a95e7d08367f059ea6677dba44d"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-671",
+   "short": "Решение №68",
+   "title": "Решение №68",
+   "url": "https://docs.eaeunion.org/documents/272/671/",
+   "versions": [
+    {
+     "from": "2012-07-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/7fc/u0pfi73zflm2j0pvsym0h3y6cckqi0ev/cncd_24082012_68_doc.html",
+     "sha256": "be8829eb70038e1b4640842a6435395195dfe57c6fb5b6031d9870d01cf682a8"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9225",
+   "short": "Решение №67",
+   "title": "Решение №67",
+   "url": "https://docs.eaeunion.org/documents/272/9225/",
+   "versions": [
+    {
+     "from": "2012-07-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/ee0/5v6tonok4bpwsbt9fzs3hpg540zpnlei/cncd_24082012_67_doc.html",
+     "sha256": "be18a348c46656e2fc4ef3c7e46e7de30158b9fe216f153c0f061d7b8e974a0a"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-794",
+   "short": "Решение №55",
+   "title": "Решение №55",
+   "url": "https://docs.eaeunion.org/documents/272/794/",
+   "versions": [
+    {
+     "from": "2012-08-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/72a/9dkzp8n6za0e903gcyltfdor99may3ge/cncd_23072012_55_doc.html",
+     "sha256": "9334c24f81602e4cc063f2d486da125e8925d52f45cbb20596fcd1ba61ddef8c"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8992",
+   "short": "Решение №54",
+   "title": "Решение №54",
+   "url": "https://docs.eaeunion.org/documents/272/8992/",
+   "versions": [
+    {
+     "from": "2012-08-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/914/ei3cavjiu9iqopqiozzlkfbj0a4ner4b/cncd_23072012_54_doc.html",
+     "sha256": "8774db27c16edb0f519cd4bc9806f17c7d6d9b6b7609019d866be1b6cf1df68d"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9265",
+   "short": "Решение №64",
+   "title": "Решение №64",
+   "url": "https://docs.eaeunion.org/documents/272/9265/",
+   "versions": [
+    {
+     "from": "2012-08-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/ed2/c5grtp6ffxvms67ipkufwp51c3f1lgo8/cncd_20072012_64_doc.html",
+     "sha256": "5dee7bba1277c82f1f0f4b0b47e47004964b26164060bcd78f93a7eb65196cd4"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9380",
+   "short": "Решение №63",
+   "title": "Решение №63",
+   "url": "https://docs.eaeunion.org/documents/272/9380/",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/15f/afyk26u44by8ggv2y8g1abzfcicuka2w/cncd_20072012_63_doc.html",
+     "sha256": "c100bddca95de39457803fcad7c7fc5379a651fe67d64a3bdacefd70bd48fd3c"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-1196",
+   "short": "Решение №61",
+   "title": "Решение №61",
+   "url": "https://docs.eaeunion.org/documents/272/1196/",
+   "versions": [
+    {
+     "from": "2012-08-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/639/xu5ns37acvpif44o51g8fug5bb2z1mm9/cncd_20072012_61_doc.html",
+     "sha256": "2da46fbc93761c2a446b6c4092e628dd5e77a655e9c0abbe8be7ce26009657ff"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-1149",
+   "short": "Решение №60",
+   "title": "Решение №60",
+   "url": "https://docs.eaeunion.org/documents/272/1149/",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/016/pb887i70xzs3ag4bs3vxgj725zurklq7/cncd_20072012_60_doc.html",
+     "sha256": "1e14e3800fd7d53cdde3f20dbd74be93eae12978a05106f3afffe4b66af49f62"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9407",
+   "short": "Решение №59",
+   "title": "Решение №59",
+   "url": "https://docs.eaeunion.org/documents/272/9407/",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/e36/6a1y81knu4g2wnwt0uybj5l55u9ec3uj/cncd_20072012_59_doc.html",
+     "sha256": "207083a049800829ff91e27d6c2d6f214fe6ae28117722148fdee157c2e87f64"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9304",
+   "short": "Решение №58",
+   "title": "Решение №58",
+   "url": "https://docs.eaeunion.org/documents/272/9304/",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/b04/sztvchy9fvy6n8sqepx5gaifo4ovkgg5/cncd_20072012_58_doc.html",
+     "sha256": "492895267514c7820a6246789996a6bd7c804df3a3602dec300df9ffe26f9219"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9463",
+   "short": "Решение №57",
+   "title": "Решение №57",
+   "url": "https://docs.eaeunion.org/documents/272/9463/",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/b15/hd56cwo3bf1obhba9hb43m3tuskgzde3/cncd_20072012_57_doc.html",
+     "sha256": "168b82e4df5d91f01a58cf828382539aa44ff070ff3c152eaba1779cff88ad46"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-703",
+   "short": "Решение №52",
+   "title": "Решение №52",
+   "url": "https://docs.eaeunion.org/documents/272/703/",
+   "versions": [
+    {
+     "from": "2012-07-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/9e4/wy7pvtbg0q5oqtf7ubmnfcnfxkf9vrbo/cncd_25062012_52_doc.html",
+     "sha256": "d0915adafd04f50c04acd1ca3137aedee517bff18b94df5136af85792ce4d5ec"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9024",
+   "short": "Решение №56",
+   "title": "Решение №56",
+   "url": "https://docs.eaeunion.org/documents/272/9024/",
+   "versions": [
+    {
+     "from": "2012-08-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/c2f/09yey9ersp5hd7uqrh2qe8jtg637yqyb/cncd_22062012_56_doc.html",
+     "sha256": "682b0862f4d259fac8a8d997ad2f3dad192b5cd09893e2c55d51776256ae4a5f"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-8996",
+   "short": "Решение №48",
+   "title": "Решение №48",
+   "url": "https://docs.eaeunion.org/documents/272/8996/",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/22a/nuzdlhras6t88akuedvvb6h7xpvhrzh2/cncd_22062012_48_doc.html",
+     "sha256": "dd79dbeda2c56474b8cf49ab785dbdd63de0f128d6756dcf3b184c26972aabcb"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9036",
+   "short": "Решение №47",
+   "title": "Решение №47",
+   "url": "https://docs.eaeunion.org/documents/272/9036/",
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/f1d/m2lhvzhfhp24hezbyqaa2564k4uwi6kd/cncd_22062012_47_doc.html",
+     "sha256": "d972397061f944785734080e995dc47e275fb59f56a02502544638aa7531bbdd"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9068",
+   "short": "Решение №44",
+   "title": "Решение №44",
+   "url": "https://docs.eaeunion.org/documents/272/9068/",
+   "versions": [
+    {
+     "from": "2012-06-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/150/wf5q6fia1ny3r1e0exndm4wgs7kziv8t/cncd_22062012_44_doc.html",
+     "sha256": "9c7c8fe4fb749e8c057b8134c0f62c1a3e15add6271c5130d46af5c37d570a8b"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9539",
+   "short": "Решение №35",
+   "title": "Решение №35",
+   "url": "https://docs.eaeunion.org/documents/272/9539/",
+   "versions": [
+    {
+     "from": "2012-06-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/ebe/k0b1a3h17k5pux6bvsgut6wsd0e9ooq7/cncd_15062012_35_doc.html",
+     "sha256": "26654e327525c3b9194c98f0266fb7525d4554c339c17f4f812b03ef668fb1fe"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-715",
+   "short": "Решение №30",
+   "title": "Решение №30",
+   "url": "https://docs.eaeunion.org/documents/272/715/",
+   "versions": [
+    {
+     "from": "2012-05-26",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d72/ub60rswjc1a68r0cqi4c282jojg1zwqv/cncd_15052012_30_doc.html",
+     "sha256": "c9d23aa7e9b1451cae385bf5f63587cc7230ff7da65e8256797f11c466847beb"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-1014",
+   "short": "Решение №26",
+   "title": "Решение №26",
+   "url": "https://docs.eaeunion.org/documents/272/1014/",
+   "versions": [
+    {
+     "from": "2012-06-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/457/9671bil3eneoxaswnnwn82gylg0z16s1/cncd_15052012_26_doc.html",
+     "sha256": "10cb00e7a6199287a1e8b3ac57230b60fcdd4b9d906d41529b6e0260def5fb16"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9145",
+   "short": "Решение №25",
+   "title": "Решение №25",
+   "url": "https://docs.eaeunion.org/documents/272/9145/",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/f0d/fdgxd8l9u0imqslhmxeojsaumzsrpy71/cncd_15052012_25_doc.html",
+     "sha256": "ba4db8c37f0617ce2c608bb2946ece978ae85f029908f31b7aedd6f193a0fa0d"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9092",
+   "short": "Решение №23",
+   "title": "Решение №23",
+   "url": "https://docs.eaeunion.org/documents/272/9092/",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/3f2/shxqoz0lbsf6ylx1cz22kiw8sgwxx172/cncd_05052012_23_doc.html",
+     "sha256": "d1b6941ea0e12480a77554e8751427388c90df4dd71f7382e0d398fb1c7624b0"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-9140",
+   "short": "Решение №18",
+   "title": "Решение №18",
+   "url": "https://docs.eaeunion.org/documents/272/9140/",
+   "versions": [
+    {
+     "from": "2012-05-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/428/cqxq79g35b2x3vid41yfk0sujrsdzwib/cncd_03052012_18_doc.html",
+     "sha256": "96b452c757814f746f19ba7f172921e8110f711247eace404429b0c4dea8048f"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-4603",
+   "short": "Протокол о внесении изменений в Договор об Объединенной коллегии таможенных служб государств ֊ членов Таможенного союза от 22 июня 2011 года",
+   "title": "Протокол о внесении изменений в Договор об Объединенной коллегии таможенных служб государств ֊ членов Таможенного союза от 22 июня 2011 года",
+   "url": "https://docs.eaeunion.org/documents/236/4603/",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/c60/h3wwbsmsluvul27nkrohtp00jb4w849p/itia_12082019_att.zip",
+     "sha256": "a5eb4046d03d55fa8fc5f85d38cd13bda0559ac8bfb349d52e9bb4fc328145e0"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-4483",
+   "short": "Соглашение об обмене информацией о товарах и транспортных средствах международной перевозки, перемещаемых через таможенные границы Евразийского экономического союза и Китайской Народной Республики",
+   "title": "Соглашение об обмене информацией о товарах и транспортных средствах международной перевозки, перемещаемых через таможенные границы Евразийского экономического союза и Китайской Народной Республики",
+   "url": "https://docs.eaeunion.org/documents/238/4483/",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/a7f/kvxtlwllbms128su1t526t75bvwpa0um/iatc_17062019_att.zip",
+     "sha256": "b385bbfec81371e662325c33a15b895d71d0afa5919be59c977a19ce9f19d807"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-4029",
+   "short": "Протокол о присоединении Республики Армения к Соглашению о порядке защиты конфиденциальной информации и ответственности за ее разглашение при осуществлении Евразийской экономической комиссией полномочий по контролю за соблюдением единых правил конкуренции от 12 ноября 2014 года",
+   "title": "Протокол о присоединении Республики Армения к Соглашению о порядке защиты конфиденциальной информации и ответственности за ее разглашение при осуществлении Евразийской экономической комиссией полномочий по контролю за соблюдением единых правил конкуренции от 12 ноября 2014 года",
+   "url": "https://docs.eaeunion.org/documents/236/4029/",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/0df/rs0y9ka9q5nv4bbhgjzkk99t3f3b9hr7/itia_03122018_att.zip",
+     "sha256": "e8a4599b0b2ae30e6d635b1670448646cf75c84c5b23908f8ef716b90c0385fb"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-3659",
+   "short": "Соглашение о международных договорах Евразийского экономического союза с третьими государствами, международными организациями или международными интеграционными объединениями",
+   "title": "Соглашение о международных договорах Евразийского экономического союза с третьими государствами, международными организациями или международными интеграционными объединениями",
+   "url": "https://docs.eaeunion.org/documents/236/3659/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/d40/ho9rpip5j9o14wzfnbqu12fzzzs2sjea/itia_16052018_att.zip",
+     "sha256": "23a1aa9b5e7dac36335282453ce618d389b8a9735051532b24624681bd90c7a1"
+    }
+   ]
+  },
+  {
+   "slug": "eaeu-act-2409",
+   "short": "Протокол о присоединении Кыргызской Республики к Соглашению о перемещении озоноразрушающих веществ и содержащей их продукции и учете озоноразрушающих веществ при осуществлении взаимной торговли государств-членов Евразийского экономического союза от 29 мая 2015 года",
+   "title": "Протокол о присоединении Кыргызской Республики к Соглашению о перемещении озоноразрушающих веществ и содержащей их продукции и учете озоноразрушающих веществ при осуществлении взаимной торговли государств-членов Евразийского экономического союза от 29 мая 2015 года",
+   "url": "https://docs.eaeunion.org/documents/236/2409/",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/761/ddosr0jiyulq1wcccdlp3d6jmtcb300a/itia_15082016_att.zip",
+     "sha256": "0803f63b718ff14ba3fcea37a09a8be0ce89912fdc083ceb7a135234ec60d054"
+    }
+   ]
   }
  ]
 }
