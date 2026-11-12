@@ -1,0 +1,25 @@
+{
+ "acts": [
+  {
+   "slug": "dogovor-o-evraziyskom-ekonomicheskom-soyuze",
+   "path": "dogovor-o-evraziyskom-ekonomicheskom-soyuze",
+   "id": "Договор о Евразийском экономическом союзе от 29 мая 2014 года",
+   "eli": null,
+   "title": "Договор о Евразийском экономическом союзе",
+   "short": "Договор о ЕАЭС",
+   "law_kind": "other",
+   "enacted": "2014-05-29",
+   "published": "2014-06-05",
+   "in_force": "2015-01-01",
+   "repealed": null,
+   "repealed_by": null,
+   "status": "in force",
+   "url": "https://docs.eaeunion.org/docs/ru-ru/0053610/itia_05062014",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
+  }
+ ]
+}

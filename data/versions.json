@@ -1,0 +1,22 @@
+{
+ "country": "EAEU",
+ "acts": [
+  {
+   "slug": "dogovor-o-evraziyskom-ekonomicheskom-soyuze",
+   "short": "Договор о ЕАЭС",
+   "title": "Договор о Евразийском экономическом союзе",
+   "url": "https://docs.eaeunion.org/docs/ru-ru/0053610/itia_05062014",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://docs.eaeunion.org/upload/iblock/e6e/08na98hg7eon2u3d6rmjkpqjedfn502r/itia_05062014_att.zip",
+     "sha256": "af31fc82599eda6b029d2c91184fcf741c25d889a813afd0780201d84abcbf73"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-treaty.json": {
+   "acts": [
+    "dogovor-o-evraziyskom-ekonomicheskom-soyuze"
+   ],
+   "sha256": "ccc851400e7d684255cc28db53fe67e154f9cab81a2f43b404b705420dc371cd"
+  }
+ },
+ "schema": 1
+}

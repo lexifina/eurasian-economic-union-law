@@ -1,0 +1,17 @@
+{
+ "corpus": "eaeu/union/acts",
+ "path": "eaeu/union/acts",
+ "scope": "selected-acts",
+ "acts": 1,
+ "future_branch": "futuro",
+ "publisher": "Евразийский экономический союз",
+ "name": "Eurasian Economic Union law",
+ "language": "ru",
+ "coverage": "1 acts of Eurasian Economic Union as enacted, in force from 2015-01-01 to 2026-11-12",
+ "history": "as-enacted",
+ "history_from": "2015-01-01",
+ "record_to": "2015-01-01",
+ "checked_on": "2026-11-12",
+ "record_note": "Signed Treaty text only; annexes and later Union acts are not yet included.",
+ "in_force_trailer": "In-force"
+}

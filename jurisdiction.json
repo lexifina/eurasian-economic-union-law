@@ -1,0 +1,11 @@
+{
+ "name": "Eurasian Economic Union",
+ "code": "EA",
+ "slug": "eurasian-economic-union",
+ "level": "union",
+ "language": "ru",
+ "source": "https://docs.eaeunion.org/",
+ "build": "as-enacted selected acts",
+ "path": "eaeu/union",
+ "parent": "eaeu"
+}
