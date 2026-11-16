@@ -10,6 +10,14 @@ See [data/acts.json](data/acts.json), [data/provisions.tsv](data/provisions.tsv)
 
 Official legal texts: [Правовой портал Евразийского экономического союза](https://docs.eaeunion.org/). The checked source pages display “© Евразийский экономический союз, 2026” and state no express text-reuse licence. See LICENSE and NOTICE for that limited finding.
 
+## How it is checked
+
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
+
 ## По-русски
 
 Корпус содержит выбранные официальные тексты на русском языке и даты вступления в силу, указанные источником. Полнота действующей консолидированной редакции не заявляется.
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
